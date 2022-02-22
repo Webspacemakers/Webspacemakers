@@ -1,2 +1,2 @@
-# Webspacemakers.github.io
+# Webspacemakers
 Making your WebSpace
